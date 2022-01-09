@@ -5,9 +5,9 @@
 En este repositorio encontrará una base de datos sobre las ventas de Amazon.
 El repositorio se compondrá de:
 
-> 1. Un [archivo .js]("src/inserts.js") con la propia base de datos
+> 1. Un [archivo .js](src/inserts.js) con la propia base de datos
    
-> 2. Un [segundo archivo .js]("src/query.js") con las consultas utilizando el "Aggregation"
+> 2. Un [segundo archivo .js](src/query.js) con las consultas utilizando el "Aggregation"
 
 ## Manuales de operadores usados para el trabajo
 
